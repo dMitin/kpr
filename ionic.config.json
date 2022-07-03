@@ -1,0 +1,8 @@
+{
+  "name": "kpr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "43750df5"
+}
